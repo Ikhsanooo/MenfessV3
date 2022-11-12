@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝙑𝙄𝘾𝙏𝙊𝙍-𝙈𝘿 ❳━━━
+return`━━━❲ *Ikhsan-BOT* ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
@@ -723,13 +723,13 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085172446692
-A/N: levi
-
 *Payment Dana*
-Number: 085172446692
-A/N: levi
+Number: 6281938681806
+A/N: Ikhsan-Store
+
+*Payment Pulsa Axis*
+Number: 6283137750223
+A/N: Ikhsan-Store
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* levi
- • *Umur:* 13 tahun
- • *Hoby:* sendiri/tiktok
- • *Askot:* Berau
+ • *Nama:* Ikhsan-Store
+ • *Umur:* 15 tahun
+ • *Hoby:* Ngoding/Recode
+ • *Askot:* Makassar
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 085172446692
- • *Youtube:* LEVI GANZ
- • *Github:* victorbot22
+ • *Whatsapp:* 6285756448056
+ • *Youtube:* Ikhsan-Bot
+ • *Github:* oootenang
  `
 }
